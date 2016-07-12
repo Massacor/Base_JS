@@ -1,0 +1,47 @@
+div.form {
+	margin-top: 100px;
+}
+
+
+form.exo2-4 {
+	margin-top:100px;
+}
+
+a.exo3-1 {
+	margin-top:100px;
+}
+
+div#texte {
+	display:none;
+}
+
+.color{
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin : 5px;
+}
+.green{
+  	background-color: green;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+
+div.example {
+	margin-top: 100px;
+}
+
+button:before, .color:after {
+  clear:both;
+}
+
+
+
+
+
+/* ---------CSS Page 2 -------------- */
+
